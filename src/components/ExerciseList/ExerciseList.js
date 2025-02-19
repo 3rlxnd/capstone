@@ -10,7 +10,7 @@ export default function ExerciseList() {
   return (<>
     <h1>Exercises</h1>
     <div>
-      {data.map(exercise => (
+      {data?.map(exercise => (
         <Fragment key={exercise.id}>
           <h2>{exercise.name}</h2>
           <img src='/muscle.png' width={200} height={200} />
