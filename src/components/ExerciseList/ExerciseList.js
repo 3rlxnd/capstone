@@ -4,8 +4,8 @@ import useSWR from 'swr'
 export default function ExerciseList() {
   const { data, error, isLoading } = useSWR('/api/exercises')
   
-  {isLoading && <p>Loading...</p>}
-  {error && <p>Error fetching Data</p>}
+  if (isLoading) return <p>Loading...</p>
+  if (error) return <p>Error fetching Data</p>
   
   return (<>
     <h1>Exercises</h1>
