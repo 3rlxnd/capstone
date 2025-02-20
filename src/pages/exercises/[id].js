@@ -1,8 +1,7 @@
 import Head from "next/head";
-import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import ExerciseList from "@/components/ExerciseList/ExerciseList";
+import ExerciseDetails from "@/components/ExerciseDetails/ExerciseDetails";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -24,7 +23,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <main className={styles.main}>
-          <ExerciseList/>
+          <ExerciseDetails/>
         </main>
         <footer className={styles.footer}>
           

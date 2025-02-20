@@ -3,7 +3,7 @@
       "id": "1",
       "name": "Push-Up",
       "muscleGroups": ["Chest", "Shoulders", "Triceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Start in a plank position with your hands directly under your shoulders.",
         "Lower your body until your chest nearly touches the floor.",
@@ -15,7 +15,7 @@
       "id": "2",
       "name": "Squat",
       "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart.",
         "Lower your body as if you're sitting back into a chair.",
@@ -27,7 +27,7 @@
       "id": "3",
       "name": "Plank",
       "muscleGroups": ["Abdominals", "Lower Back", "Core"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Start in a push-up position but bend your elbows and rest your weight on your forearms.",
         "Keep your body in a straight line from head to heels.",
@@ -39,7 +39,7 @@
       "id": "4",
       "name": "Bicep Curl",
       "muscleGroups": ["Biceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
         "Keep your elbows close to your torso and curl the weights up to shoulder level.",
@@ -51,7 +51,7 @@
       "id": "5",
       "name": "Lunge",
       "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet together.",
         "Step forward with one leg and lower your hips until both knees are bent at a 90-degree angle.",
@@ -63,7 +63,7 @@
       "id": "6",
       "name": "Deadlift",
       "muscleGroups": ["Back", "Glutes", "Hamstrings"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet hip-width apart, holding a barbell in front of you.",
         "Bend at your hips and knees to lower the barbell to the floor.",
@@ -75,7 +75,7 @@
       "id": "7",
       "name": "Bench Press",
       "muscleGroups": ["Chest", "Shoulders", "Triceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Lie on a flat bench with your feet flat on the floor.",
         "Grip the barbell with your hands slightly wider than shoulder-width apart.",
@@ -87,7 +87,7 @@
       "id": "8",
       "name": "Shoulder Press",
       "muscleGroups": ["Shoulders", "Triceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
         "Lift the dumbbells to shoulder height with your palms facing forward.",
@@ -99,7 +99,7 @@
       "id": "9",
       "name": "Tricep Dip",
       "muscleGroups": ["Triceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Place your hands on the edge of a bench or chair, fingers facing forward.",
         "Extend your legs out in front of you.",
@@ -111,7 +111,7 @@
       "id": "10",
       "name": "Pull-Up",
       "muscleGroups": ["Back", "Biceps"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Grip a pull-up bar with your palms facing away from you.",
         "Hang with your arms fully extended.",
@@ -123,7 +123,7 @@
       "id": "11",
       "name": "Leg Press",
       "muscleGroups": ["Quadriceps", "Hamstrings", "Glutes"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Sit on a leg press machine with your feet shoulder-width apart on the platform.",
         "Lower the platform until your knees are at a 90-degree angle.",
@@ -135,7 +135,7 @@
       "id": "12",
       "name": "Russian Twist",
       "muscleGroups": ["Obliques", "Core"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Sit on the floor with your knees bent and your feet flat.",
         "Lean back slightly and lift your feet off the floor.",
@@ -147,7 +147,7 @@
       "id": "13",
       "name": "Calf Raise",
       "muscleGroups": ["Calves"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart.",
         "Lift your heels off the ground as high as possible.",
@@ -159,7 +159,7 @@
       "id": "14",
       "name": "Hammer Curl",
       "muscleGroups": ["Biceps", "Forearms"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
         "Keep your elbows close to your torso and curl the weights up to shoulder level.",
@@ -171,7 +171,7 @@
       "id": "15",
       "name": "Glute Bridge",
       "muscleGroups": ["Glutes", "Lower Back"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Lie on your back with your knees bent and your feet flat on the floor.",
         "Lift your hips off the ground until your knees, hips, and shoulders form a straight line.",
@@ -183,7 +183,7 @@
       "id": "16",
       "name": "Mountain Climbers",
       "muscleGroups": ["Core", "Legs", "Shoulders"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Start in a plank position with your hands directly under your shoulders.",
         "Bring your right knee toward your chest.",
@@ -195,7 +195,7 @@
       "id": "17",
       "name": "Burpee",
       "muscleGroups": ["Full Body"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Start in a standing position.",
         "Drop into a squat position and place your hands on the ground.",
@@ -208,7 +208,7 @@
       "id": "18",
       "name": "Crunch",
       "muscleGroups": ["Abdominals"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Lie on your back with your knees bent and feet flat on the floor.",
         "Place your hands behind your head.",
@@ -220,7 +220,7 @@
       "id": "19",
       "name": "Reverse Fly",
       "muscleGroups": ["Upper Back", "Shoulders"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
         "Bend at your hips until your torso is nearly parallel to the floor.",
@@ -232,7 +232,7 @@
       "id": "20",
       "name": "Side Plank",
       "muscleGroups": ["Obliques", "Core"],
-      "imageUrl": "",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "instructions": [
         "Lie on your side with your legs straight.",
         "Prop yourself up with your forearm so your body forms a diagonal line from head to feet.",
